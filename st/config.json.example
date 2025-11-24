@@ -1,0 +1,6 @@
+{
+    "CF_API_TOKEN": "你的 Cloudflare API Token",
+    "ZONE_ID": "你的 Zone ID",
+    "RECORD_NAME": "sub.example.com",
+    "RECORD_TYPE": "A"
+}
